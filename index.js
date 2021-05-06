@@ -1,7 +1,8 @@
 function divide(x, y){
   
-return  2000 /100; 
+return  x /y; 
 }
+divide(2000,100)
 
 let square=(a)=>{
   return a*a; 
